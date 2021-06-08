@@ -1,5 +1,5 @@
-A = input("Enter first number: ")
-B = input("Enter second number: ")
+A = input("enter the first number: ")
+B = input("enter the second number: ")
 
 sum = int(A) + int(B)
-print("Answer is: %s" % sum)
+print("Answer is: ", sum)
