@@ -1,3 +1,2 @@
 hello
 second line from github
-third line from notepad
