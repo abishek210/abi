@@ -9,7 +9,7 @@ print(range(num))
 
 for y in range(num):
   try:
-    numbers = int(input("Enter number (#%s) : " % (y+1)))
+    numbers = int(input("Enter number #%s : " % (y+1)))
     list1.append(numbers)
   except:
     print("Invalid number!")
