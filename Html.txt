@@ -1,0 +1,20 @@
+<DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1 style="font-family:cursive;color:deeppink;">Heading</h1>
+<p style="background-color:orange;">Paragraph <mark>1</mark></p>
+<p style="background-color:green;color:white;">Paragraph <sub>2</sub></p>
+<p><b>This is <em>bad,</em> text </b></p>
+
+<img src="download.jpg"width="170" height="130">
+<br>
+<br>
+<a href="https://www.google.com">Google.com</a>
+
+
+</body>
+</html>
