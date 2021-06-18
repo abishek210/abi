@@ -3,6 +3,7 @@ num = input("how many numbers do you want to subtract: ")
 num = int(num)
 print(range(num))
 
+
 for x in range(num):
  try:
   numbers = int(input("Enter number #%s : "% (x+1)))
