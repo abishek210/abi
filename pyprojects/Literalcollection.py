@@ -1,0 +1,1 @@
+alphabets = {'a':'apple','b':'ball'} #dictonary
